@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_global_x2">40dp</dimen>
+    <dimen name="margin_global">20dp</dimen>
+    <dimen name="margin_text">10dp</dimen>
+</resources>
